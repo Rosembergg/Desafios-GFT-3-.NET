@@ -40,7 +40,7 @@ namespace Desafios_GFT_3_.NET
               }
         }
 
-        static void Desafio2()
+        static void Desafio3()
         {
             string[] input;
             string[] input1;
